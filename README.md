@@ -11,13 +11,13 @@ It is for one person on one Claude subscription, working entirely in the Claude 
 
 ## Install
 
-From a terminal, in one line:
+From a terminal, in one line (Claude Code 2.1.292 or later):
 
 ```bash
 claude plugin install solo-director --marketplace nicolaithomson/solo-director
 ```
 
-Or inside Claude Code, as two commands:
+Or inside Claude Code, on any version, as two commands:
 
 ```text
 /plugin marketplace add nicolaithomson/solo-director
