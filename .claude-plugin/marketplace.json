@@ -1,0 +1,16 @@
+{
+  "name": "solo-director",
+  "description": "Marketplace for the solo-director skill.",
+  "owner": {
+    "name": "nicolaithomson",
+    "url": "https://github.com/nicolaithomson"
+  },
+  "plugins": [
+    {
+      "name": "solo-director",
+      "source": "./",
+      "description": "One pinned Claude Desktop session that directs your project: it plans a board, starts a session per task, relays your words verbatim, reports back, and keeps its notes in a file so compaction never loses in-flight work.",
+      "category": "productivity"
+    }
+  ]
+}

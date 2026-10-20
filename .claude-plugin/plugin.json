@@ -1,0 +1,13 @@
+{
+  "name": "solo-director",
+  "version": "1.0.0",
+  "description": "One pinned Claude Desktop session that directs your project: it plans a board, starts a session per task, relays your words verbatim, reports back, and keeps its notes in a file so compaction never loses in-flight work.",
+  "author": {
+    "name": "nicolaithomson",
+    "url": "https://github.com/nicolaithomson"
+  },
+  "homepage": "https://github.com/nicolaithomson/solo-director",
+  "repository": "https://github.com/nicolaithomson/solo-director",
+  "license": "MIT",
+  "keywords": ["director", "orchestration", "sessions", "claude-desktop", "compaction", "checkpoint"]
+}
